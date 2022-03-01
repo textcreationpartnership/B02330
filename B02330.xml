@@ -1,0 +1,512 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession, profession and conversion of an honourable and most worthy young gentlewoman, who was wonderfully zealous in the Roman religion for a long time.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02330</idno>
+            <idno type="STC">Wing C5802</idno>
+            <idno type="STC">ESTC R171496</idno>
+            <idno type="EEBO-CITATION">52211771</idno>
+            <idno type="OCLC">ocm 52211771</idno>
+            <idno type="VID">175599</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175599)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2742:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession, profession and conversion of an honourable and most worthy young gentlewoman, who was wonderfully zealous in the Roman religion for a long time.</title>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brabazon Aylmer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Published anonymously.</note>
+                  <note>First three pages unnumbered.</note>
+                  <note>Imperfect: blurred print, tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Protestant authors.</term>
+               <term>Protestant converts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175599:1"/>
+            <pb facs="tcp:175599:1" rendition="simple:additions"/>
+            <p> 
+               <hi>THE CONFESSION, PROFESSION And CONVERSION Of an Honourable and Moſt Worthy Young GENTLEWOMAN, who was Wonderfully Zealous in the</hi> Roman Religion <hi>for a long time.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Rev.</hi> 17. <hi>verſe</hi> 3. <hi>and</hi> 4.</bibl>
+               <p>So he carried me away in the ſpirit into the wilder<g ref="char:EOLhyphen"/>neſs: and I ſaw a woman ſit upon a ſcarlet-coloured Beaſt, full of names of blaſphemy, having ſeven heads, and ten horns.</p>
+               <p>
+                  <bibl>
+                     <hi>verſ.</hi> 4.</bibl> And the woman was arayed in purple, and ſcarlet colour, and decked with gold and precious ſtone and pearls, having a golden cup in her hand, full of the abominations and filthineſs of her furnication.</p>
+            </q>
+            <p>London, <hi>Printed for</hi> Brabazon Aylmer, Anno DOM. 1684.</p>
+            <pb facs="tcp:175599:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:175599:2"/>
+            <head>
+               <hi>The Confeſſion, Profeſſion, and Converſion of an Honourrble and moſt Worthy Young Gentle-Woman, who was Wonderfull Zealous in the</hi> Roman Religion <hi>for a long time.</hi>
+            </head>
+            <p>I Have changed no good thing which ever I had before, but rather that which <hi>I</hi> had in appearance before, I Laboured to have it in truth, Now I believe ſtill the <hi>Articles of the Creed,</hi> I take the <hi>Ten Commandments</hi> for the <hi>Rule of my Belief,</hi> and the <hi>Lords Prayer</hi> for the rule of my Prayer: I believe that <hi>I</hi> and others are <hi>miſerable Sin<g ref="char:EOLhyphen"/>ners</hi> in our ſelves; <hi>I</hi> believe to be ſaved by the <hi>death of Jeſus Chriſt,</hi> and no other way: I believe that <hi>true faith</hi> muſt bring forth the <hi>Fruit of Repentance</hi> and <hi>Ammendiment of Life</hi> and that every faithful Perſon, muſt ſtudie to <hi>good works,</hi> and to grow in the <hi>Love of</hi> GOD, and of their Neighbours, or elſe their <hi>Faith is but dead and counterfeit,</hi> and will do them no good, <hi>I</hi> believe the <hi>Scriptures of Old and New Teſtament,</hi> to be the <hi>Word of GOD,</hi> and whatſoever I find agreeable there<g ref="char:EOLhyphen"/>to, I keep it ſtill, and purpoſes by <hi>GODS Grace</hi> to keep it while I live.</p>
+            <p>The <hi>Change</hi> which <hi>I</hi> have made neithe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="4" facs="tcp:175599:3"/> 
+               <hi>I</hi> nor any Creature in the World hath made it in me: <hi>Firſt, I</hi> ſtrove againſt that <hi>thing</hi> all that <hi>I</hi> could, till the LORD let me know that Himſelf was dealing with me, and now that the LORD hath made this Work in me from the beginning, albeit <hi>I</hi> could never mark it till of late, all my time, <hi>I</hi> had a <hi>Love</hi> unto the <hi>Truth;</hi> and an earneſt Deſire to know how <hi>I ſhould ſerve God,</hi> as they (who hath known me from my B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Age) may remember: According to my knowledge <hi>I</hi> preaſed to do that which <hi>I</hi> thought would pleaſe GOD. <hi>I</hi> deſired above all things to be Upright. <hi>I</hi> durſt not for my Life follow that Courſe which <hi>I</hi> thought was wrong, but aimed to make <hi>Conſcience</hi> of my wayes, according to my weak knowledge, as <hi>I</hi> ever had a ſpecial Love to all them to whom <hi>I</hi> was bound in Nature, and yet hath, and that more ſted<g ref="char:EOLhyphen"/>faſtly now ſettled then ever: So alſo <hi>I</hi> ever liked well of them who loved God, and lived well whatever Profeſſion they were of, and ſo I purpoſe to do ſtill being aſſured that he will ſhew Mercy to all them who deſires to pleaſe Him, and in his own time will make his will manifeſt to all them who deſires to know it.</p>
+            <p>This now <hi>I</hi> know well was the beginning
+<pb n="5" facs="tcp:175599:3"/> of the Lords work with me; The love that <hi>I</hi> had to GODS ſervice, and the deſire I had to be ſaved, made me peece and peece to ſea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch out the gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onds of Religion, which <hi>I</hi> now Profeſs, and when other means failed me, <hi>I</hi> ſet my ſelf by reading of Books to come to the knowledg thereof, this was counted Curioſitie in me, and becauſe <hi>I</hi> found my ſelf bound to take pains, to know how my Soul ſhould be ſaved, <hi>I</hi> chooſed rather to be unjuſtly called Curious nor to be in effect ignorant, and carleſs of my own Salvation: And <hi>I</hi> could not ſee, neither can <hi>I</hi> ſee yet what any ſhould care for to know rather then the grounds of their own Sal<g ref="char:EOLhyphen"/>vation, and <hi>I</hi> could not ſee any better chooſe therefore <hi>I</hi> held on and wearied not: Yea it became my Pleaſure above all things in the Earth to know and to do that whereby <hi>I</hi> might be be furthered unto Heaven, So that I could have been content, (if GOD had thought it fit) to have renounced all the Honour and the Pleaſure of the World for time and occaſion to uſe all the means, which <hi>I</hi> thought then might have brought me to Heaven, and had purpoſes and de<g ref="char:EOLhyphen"/>ſignes in my Mind; Which the GOD of Heaven hindred in Mercy, to my good, becauſe he ſaw they did not ſerve for that
+<pb n="6" facs="tcp:175599:4"/> end, as now <hi>I</hi> am perſwaded:) But whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>I</hi> got the underſtanding of the Grounds <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Religion, which <hi>I</hi> profeſſed, which eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Teachers counted ſufficient, <hi>I</hi> coul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> find no true Comfort, that either <hi>I</hi> or an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like me could find either in Life or Death <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> For all my Life <hi>I</hi> might not ſeek aſſuranc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of my Sa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vation, for that was uſually calle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Proteſtants Preſumption;</hi> whereas the Apoſtl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enjoyneth us to make our <hi>Calling and Elect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>on ſure, and give all diligence thereto,</hi> 2 Pete<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1. 10.</p>
+            <p>And at my death <hi>I</hi> could ſee nothing bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Purgatorie,</hi> a fire as hot as Hell, as great to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment in it (as they ſaid to me) as i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hell, there they made me true any Sou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould go to wine out again, <hi>I</hi> wiſt no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when: This held me in a ſecret Fear co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tinually; Yea, Hell it ſelf <hi>I</hi> ſaw not how <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould eſcap, if <hi>I</hi> behoved to come ſo nea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hand to it, and wondered then, and won<g ref="char:EOLunhyphen"/>ders yet, how any man that looks for <hi>Pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>gatory</hi> at their death, can either have Tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Peace in their Mind, or Comfort and Peac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their Heart in this World: <hi>I</hi> am ſur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they muſt either take it for a Fiction, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is, or elſe forget themſelves when they a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Cheerfull, yet for all this I continued ſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the obedience of their injunctions, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="7" facs="tcp:175599:4"/> keeped them as Carefully as they had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en GOD<hi>'S</hi> own Commandements, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the mean time <hi>I</hi> would gladly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d a Reaſon for that which <hi>I</hi> did, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d a Warrand to aſſure me, that GOD <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould be pleaſed by my ſo doing, but I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld find nothing but Mens words for all. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen I was reſolved by them that gave out <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emſelves for Teachers, that either I be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oved to reſt content to <hi>Believe as the Kirk <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lieved,</hi> or elſe I would get no other Satiſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction: I thought upon this from time <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time, at laſt I ſaw there was no ſure <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>round to lean upon, except I would have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntented my ſelf, that the <hi>Clergie</hi> had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nowledge, albeit <hi>I</hi> had none that they un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſtood what they <hi>Believed,</hi> albeit I knew <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot; That they ſaw albeit I was Blind, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at they knew the way to Heaven albeit I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>new not ſure whither <hi>I</hi> was going to <hi>Heaven</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to <hi>Hell,</hi> or yet to <hi>Purgatory,</hi> when I fol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wed their directions, but this <hi>Blind obedience</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight well pleaſe them, yet could never <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive me contentment: Yet I preceived <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urder that to <hi>Believe as the Kirk Believed</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>doe as they directed,</hi> without any furder Warrant could yeeld me no Quiet Peace, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcept they could ſhow me, that GOD would be as well pleaſed with my Obedience
+<pb n="8" facs="tcp:175599:5"/> to the <hi>Pope</hi> and his <hi>Clergies command,</hi> as <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> CHRIST and his <hi>Apoſtles</hi> command, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would never quarrel the one more nor th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other at the <hi>Day of Judgement,</hi> all the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> queſtiones riſeing in my Mind, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſlight Satisfaction I got, when I asked the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> put me (I muſt confeſs) into man thoughts of Heart; yet for all this ſo pre<g ref="char:EOLunhyphen"/>ciſe was I, that I did keep me from to <hi>reading of Proteſtant bookes,</hi> neither would I e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hear any ſuch thing, nor yet en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into conference in maters <hi>of controverſie</hi> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any of them, eſpecially their <hi>Miniſters</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long as I could: And when I ſave no ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gate, many a time was I forced to lay aſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> my <hi>Beads and my Books,</hi> and took me <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <hi>Pray to GOD himſelf,</hi> as I could, for <hi>CHRIS<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſake to help me, and to have Mercy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me, and to Teach me, how to doe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Will; from time to time, moe and m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doubts aroſe in my Mind, about ſund<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> points of my profeſſion, but I ſtrove agai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, not to let them enter; Being loa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to change my Religion as long as <hi>I</hi> cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtick by it, ever ſo far reſiſting that <hi>I</hi> wou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never ſuffer the Truth to have pla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with me, ſo long as I could hold it ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>The LORD forgive me,</hi> for I did it ignoran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly.</p>
+            <pb n="9" facs="tcp:175599:5"/>
+            <p>Notwithſtanding of my Unthankfulneſs to GOD, it pleaſed his Goodneſs ſo to bear in his <hi>Light;</hi> and his <hi>Truth</hi> upon me, that I was forced ſo to acknowledge the Truth and Leave the Errour, wherefore I may well Touch ſome, I cannot tell them all.</p>
+            <p>Firſt, <hi>I</hi> reſolved never neither to <hi>believe Prieſt</hi> nor <hi>Miniſter:</hi> but ſo farr as <hi>I</hi> under<g ref="char:EOLhyphen"/>ſtood their Warrand out <hi>of GODS word;</hi> if any thing could pleaſe GOD; <hi>I</hi> thought it ſhould be <hi>Obedience to his own Direction:</hi> He might well quarrel Mens doctrines, that held not his word for their warrant, he would never quarrel his own word, then I reſolved to read Rheimes new Teſtament, and the Proteſtants old Teſtament, till they ſet out one of their Expoſitions, for <hi>I</hi> knew well GOD would not be angrie that <hi>I</hi> ſhould read his word, ſince all that is written in it pertaineth to my Soul, as well as other Folkes: <hi>I</hi> found it the pleaſanteſt and ſweeteſt book that ever <hi>I</hi> read in my life. Where there was one hard place, there was twenty plain and eaſier to be underſtood; <hi>I</hi> loved their cauſe the worſe that held me from reading of it ſo long, <hi>I</hi> thought it was an ill token in them that they loved not the Scriptures, for if they had loved them they could not
+<pb n="10" facs="tcp:175599:6"/> have ſpoken of them as they did, ſayi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they are not perfect, they are not clear <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> plain, but obſcure and ambignous and <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>gerous</hi> to be read, and will breed hereſies a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> errours in them that read them, whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cannot but skarr all that believe them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> read the LORDS word.</p>
+            <p>
+               <hi>I</hi> know well they are in the wrong <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> CHRIST and his Apoſtles who ſpeak ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their writtings. They made me believ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Pope,</hi> and the <hi>Roman Kirk,</hi> could no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> err, but <hi>I</hi> preceived that that behoved <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be wrong; it is a proud Word for ſin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fleſh to ſay, for the <hi>Apoſtle Peter</hi> was as goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Man as any Pope that ever was, and bet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>er, yet he erred and might have erred further if GOD had not preſerved him; ſince they leave the Scriptures, and go to <hi>Traditions</hi> they cannot but erre, I though<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeeing they did ſpeake of the Scripture a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they did, they both could and did erre.</p>
+            <p>Reading the <hi>Rhemes New Teſtament</hi> I found that young Children might read, and did read the Scriptures <hi>and that the Scripture could inſtruct a man to make a man perfect in that which concerns his Salvation, and that a man might be</hi> inſtructed to every good work by them, this I found contrare to that I was made un<g ref="char:EOLhyphen"/>derſtand before I fell, an other day upon the
+<pb n="11" facs="tcp:175599:6"/> 1 of <hi>John.</hi> the 1 <hi>Chap.</hi> at the hinder end thereof, and the beginning of the ſecond, There I ſaw there was no neceſſity of con<g ref="char:EOLhyphen"/>feſſing of Sinnes to the Prieſt becauſe that by confeſſion to <hi>GOD,</hi> who is <hi>Faithfull to cleanſe me from all ſin,</hi> Men muſt get forgiv<g ref="char:EOLhyphen"/>neſs; and again no <hi>Advocat</hi> but <hi>Chriſt,</hi> when we fall in ſin? And again, <hi>if any ſay they have no ſin, they ſeduce themſelves, and the truth of GOD is not in them, I</hi> thought this was a ſore word againſt them, who ſay, <hi>they can fulfill the Law and live without ſin,</hi> (and do more nor GOD commands) by <hi>works of Supererogation,</hi> as for the exception of <hi>mor<g ref="char:EOLhyphen"/>tal and venial ſins,</hi> a light or haſty word be<g ref="char:EOLhyphen"/>hoved to be one of that ſort, and <hi>I</hi> find in the 5 of <hi>Matth.</hi> in the ſame place which they alleadge for their <hi>venial ſins</hi> be greater then other, <hi>yet any ſin bringeth us under a curſe,</hi> if God would deal in juſtice with us.</p>
+            <p>
+               <hi>I</hi> loſt conceits of their <hi>Legends,</hi> and lives of their <hi>Saints,</hi> wherein <hi>I</hi> found ſome ab<g ref="char:EOLhyphen"/>horrable lies, namely in the Life of St <hi>Ka<g ref="char:EOLhyphen"/>therine of Sienna,</hi> where they alleadge, <hi>ſhe laid too her mouth to Chriſts ſide, and drank her Sa<g ref="char:EOLhyphen"/>crament, and there he interchanged hearts with her, taking out her heart and puting his own in place thereof, and that he came down from Heaven, and brought his Mother with St</hi> Peter <hi>and St.</hi>
+               <pb n="12" facs="tcp:175599:7"/> Paul <hi>and wedded ber with a Ring, which Ri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> remained ſtill on her finger.</hi> I loſt conceit <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their <hi>form of prayer,</hi> and their oft repeating over and over again the ſame words while their <hi>Beeds</hi> were ended and <hi>of</hi> their <hi>Invocation of Saints and Angels whereof their Books of con<g ref="char:EOLhyphen"/>troverſie gave me no ſure warrant, and</hi> I <hi>perceived that all the devotion they learned me ſtood in Words and Ceremonies, which now</hi> I <hi>am aſſured GOD</hi> careth not for, and <hi>I</hi> began to pray to God alone, and CHRIST JESUS, for any thing <hi>I</hi> ſtood in need of. <hi>I</hi> perceived that they gave more Vertue to the <hi>laſt five Canonized Saints</hi> then to Chriſt Jeſus, and all his Apoſtles, for drawing a <hi>Soul out of Purgatorie</hi> ſo that I could not but ſuſpect all their Meddells and and Reliques, and <hi>Agnus Dei,</hi> and thought it ſafeſt for me not to put truſt in any of theſe Triffles, neither <hi>Crucifixes</hi> nor <hi>Croſſes,</hi> which my fingers would not fold to.</p>
+            <p>From that time <hi>I</hi> ſaw no Warrants but their own ſayings, but to truſt only in the <hi>Living God that made me, and kept me,</hi> and ſo <hi>peece &amp; peece the Lord took my heart and</hi> af<g ref="char:EOLhyphen"/>fection from all things, that <hi>I</hi> found no warrant for in <hi>Gods Word:</hi> And the more I read the <hi>Rhemes New Teſtament, I</hi> loved things that were good the better, and the er<g ref="char:EOLhyphen"/>rour the worſe. In ſpecial, one place affray<g ref="char:EOLhyphen"/>ed
+<pb n="13" facs="tcp:175599:7"/> me, 1 <hi>Tim.</hi> 4. Where the forbidding of Marriage and Meats is made the mark of <hi>falſe Teachers,</hi> and of them that have the <hi>doctrine of devils.</hi> I did read the Annotati<g ref="char:EOLhyphen"/>ons, where they told me of old Hereticks, who had that fault, but that ſatisfied me not when I ſaw that ſame fault among rhem<g ref="char:EOLhyphen"/>ſelves whatever colours they put upon it, for all their Doubts and Queſtions howſo<g ref="char:EOLhyphen"/>ever I diſliked many things, and was aſſured they were wrong in ſundry, things yet I ne<g ref="char:EOLhyphen"/>ver renounced them, till I found my ſelf miſtaken in the matter of the <hi>Sacrament,</hi> the manner was this Reading the 7. 8. and 9. Chapters to the <hi>Heb.</hi> I found <hi>Cbap.</hi> 7. verſ. 27<g ref="char:punc">▪</g> 
+               <hi>That Chriſt had no neceſſitie daily to offer Hoſtes for the ſins of the People for that he did once in offering up of bimſelf;</hi> And again, <hi>verſe</hi> 23, 24, 25. <hi>That the Prieſts under the Law were many, becauſe by death they were hindred to continue, but Chriſt hath an everlaſting Prieſthood whereby he is able to ſave all them for ever, that go by himſelf to GOD, alwayes living to make Interceſ<g ref="char:EOLhyphen"/>ſion for us:</hi> And again, Chap. 9. v. 24, 25. I <hi>found that Chriſt was entered into Heaven to ap<g ref="char:EOLhyphen"/>pear now before GOD for us, not that he ſhould offer Himſelf up often; For then it behoved him to have often ſuffered, ſince the beginning of the World;</hi> But now once in the end of the
+<pb n="14" facs="tcp:175599:8"/> world hath he appeared to put away ſin by the <hi>Sacrifice of himſelf, and as it is appointed<g ref="char:punc">▪</g> for men once to dye, and after that to judgement,</hi> ſo <hi>Chriſt was once offered to bear the ſins of Men, and unto them that look for Him, ſhall he appear<g ref="char:punc">▪</g> the ſecond time, without ſin unto Salvation.</hi> How is this, thought I with my ſelf, I per<g ref="char:EOLhyphen"/>ceived if this Scripture be true, no man can offer Chriſt but himſelf. There cannot be a Prieſt to offer Chriſt but himſelf, becauſe, <hi>He is ſtill living to make interceſſion for us.</hi>
+            </p>
+            <p>CHRIST cannot be often offered but Once, neither is there any need, Becauſe by once offering he hath taken away the ſins of all; Yea it is made as impoſſible to be offered ofter then once, as to ſuffer ofter then once, yea the Apoſtles will not have ofter offering himſelf then once from his ſuffering to his ſecond Comeing. Ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of all doubt (thought I) the Apoſtles have never ſaid the Maſs, neither yet have knowen any that ever ſaid it; and yet I knew well they had the LORDS Supper. Then well I thought if CHRIST be not offered in his Bodily Subſtance in the Maſs there cannot be Tranſubſtantiation in the Maſs; my Teachers called me curious, but did give me no Anſwer to this, only they ſaid to me, that it was a Dangerous thing for my
+<pb n="15" facs="tcp:175599:8"/> Salvation to deny the holy Sacrifice of the Maſs, becauſe (ſaid they) that Sacrifice <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ook away the Sins of the People as well dead as living; I told them, that I had read <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he contrare in the word of GOD that is in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he 9 Heb. Where it is ſaid, in the 22. Verſe, That there was no Remiſſion of Sins <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout ſhedding of blood, and in the Sa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rifice of the Maſs, there is no Bloody Sa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rifice, therefore I told them; that who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver Bel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eved them were wrong, and not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell inſtructed by the word of GOD, which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as ay my ſpeciall Defence againſt them all. They gave me no other reſolution, but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſured me, I would turn Heretick, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat I underſtood not what I read.</p>
+            <p>Another place put me in as great doubt again, 1 <hi>Cor.</hi> 10. 3, 4. There it is ſaid, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat the Fathers in the wilderneſs did eat the ſame Spiritual meat, and drink the ſame Spirituall Rock, for they drank the ſame Spiritual Rock, that followed them, and the Rock was Chriſt.</hi> Then <hi>I</hi> reaſoned this way with my ſelf; they made me believe, <hi>that Chriſt could not be eaten and drunken in the Sacrament as the</hi> Proteſtants <hi>do Spiritually by Faith; but behoved to be eaten as the Roman Kirk eats his very fleſh and drinks his blood, taken in at the mouth Subſtantially:</hi> This place (thought <hi>I)</hi>
+               <pb n="16" facs="tcp:175599:9"/> will prove for the <hi>Proteſtants,</hi> and againſt the <hi>Roman Kirk,</hi> for when the People were <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Wilderneſs, Chriſt was not Incarna<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and long after, how could they then <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him (and <hi>drink his blood</hi> before he took, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fleſh and Blood except as the <hi>Proteſtants</hi> ſay<g ref="char:punc">▪</g>
+            </p>
+            <p>Again I thought how is this that <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Rock is called Chriſt,</hi> I did read the <hi>Anotati<g ref="char:EOLunhyphen"/>ons</hi> I found nothing but it was a Figure.</p>
+            <p>If I took it Literally as the <hi>Roman K<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> doth take it, then the <hi>Rock</hi> was changed in<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Chriſts ſubſtance,</hi> which could not be, for <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was not yet Incarnat, and if it were taken <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Figure, then <hi>I</hi> thought the <hi>Proteſta<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> would have the better in the matter of t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Sacrament,</hi> for they might well ſay, as <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Rock is called Chriſt,</hi> ſo is <hi>the bread called <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> body;</hi> and as they drank of Chriſt when th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> drank of the <hi>Rock</hi> ſo may they well ſay, th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> drank of his blood, when they drank <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his <hi>Cup,</hi> which is the <hi>Sacrament of his bloo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> theſe doubts about the <hi>Sacrament</hi> affected <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo, that <hi>I</hi> could not chooſe but ſend for <hi>Miniſter,</hi> (let any man judge if it was <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time) I reaſoned with him for <hi>tranſub<g ref="char:EOLunhyphen"/>ſtantiation</hi> out of the words of the LORD<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Supper and out of <hi>John</hi> 6. He anſwere my doubts, and directed me by prayer <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the aſſiſtance of GOD for Satisfaction, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſureing
+<pb n="17" facs="tcp:175599:9"/> that I would not get ſolide reſt in that mater, till the LORD made his word livly and decided the queſtion.</p>
+            <p>Within few days the LORD made the Mans word good, and made the Scriptures forcible and clear in the points which I doubted of and gave me ſuch contentment, ſuch aſſurance of his love, and of the true Religion, that all the earth would not have bred me ſuch joy and ſolide peace.</p>
+            <p>Since that time I have found the true comfort of Religion beyond any thing that I can utter, I have now gotten the true com<g ref="char:EOLhyphen"/>fort, and aſſurance in ſome mea<g ref="char:EOLhyphen"/>ſure, which I was long ſeeking. I have found the true ground to reſt upon, GODS own Truth made livilie, I am free now (I thank GOD) from the fire of <hi>Purgatory</hi> I ſcorn that Fiction. Now with a glad heart I am aſſured that the LORD is Righteous, who will not exact twice payment of one debt, CHRISTS paſſion, and the Believers torment in a fire as hot as hell. The LORD is bountifull, who having provided a ſuffi<g ref="char:EOLhyphen"/>cient cantion for us that we might eſcape Torment, he cannot of his Goodneſs cut ſhort the Cautioner to take amends of us and ſatisfie his wrath on us. The LORD is holy who cannot forgive our ſins and pu<g ref="char:EOLhyphen"/>niſh
+<pb n="18" facs="tcp:175599:10"/> them too? For I know well, what <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> forgiveth he puniſheth not, and what he p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>niſheth, he forgiveth not, which is th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> common order of Equity. The LORD is Loving, who out of his love gave his So<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to die for us his enemies, and cannot take pleaſure to burn his Children after death for faults already pardoned, as <hi>Purgatory</hi> Fi<g ref="char:EOLunhyphen"/>ction maketh them to doe; A man will think ſhame to forgive a fault, and then t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> puniſh it; And you know that which a man thinketh ſhame of is no honour to GOD. The LORD help them who live in fear of this wicked Fiction: If the Pope and his Glergie keep the World in this fea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the love they have to large Legacies; they have their own Judge to anſwer unto; GOD be praiſed who hath delivered me out of their errours. I renounce them truſting in GOD never to taſt them as I have done, <hi>I</hi> know their errours over well, to love them again, <hi>I</hi> have found over great Mercy in the knowledge of the truth to turn back again Now <hi>I</hi> wiſh in my Soul that all honeſt hearted Catholicks as they call them<g ref="char:EOLhyphen"/>ſelves, knew but the differences as well as I have felt them, I would put no doubt but every honeſt Man and Woman who love the truth, would forſake the Pope and fol<g ref="char:EOLhyphen"/>low
+<pb n="19" facs="tcp:175599:10"/> the Word of GOD and CHRIST JESUS who ſhineth therein; To whom be glory for his goodneſs to me, for ever Amen.</p>
+            <p>1 Pet. 3. 15. <hi>Be ready alwayes to give an anſwer to every man that asketh you reaſon of the hope that is in you.</hi>
+            </p>
+            <p>Rom. 8. 24. <hi>For as many as are led by the ſpirit of God they are the Sons of God.</hi> verſ. 16. <hi>The ſame Spirit beareth witneſs with our Spirit that we are the Children of God.</hi> 17. <hi>If we be children, we are alſo heirs, even the Heirs of God, and Heirs annexed with Chriſt if ſo be that we ſuffer with him, that we may be Glorified with him.</hi>
+            </p>
+            <p>2 Cor. 13. 5: <hi>Know ye not your ownſelves, how that Jeſus Chriſt is in you, except ye be Re<g ref="char:EOLhyphen"/>probates.</hi>
+            </p>
+            <p>1 Cor. 2. 12. <hi>We have received the Spirit which is of God, that we might know the things that are given to us of God, be ſayeth not to hope for them but to know them.</hi>
+            </p>
+            <p>And in John 4. 13. <hi>Hereby know we that we dwell in him and he in us, becauſe he hath gi<g ref="char:EOLhyphen"/>ven us of his Spirit.</hi>
+            </p>
+            <p>And Cap. 5. 19. <hi>We know that we are of God, and the whole World lyeth in wickedneſs.</hi>
+            </p>
+            <p>Now he that hath the true knowledge
+<pb n="20" facs="tcp:175599:11"/> that he hath this Spirit he may be aſſured that he hath the Son of God, and ſo in Chriſt, and thus out of condemnation, as the Apoſtle ſaith in the 1 <hi>v.</hi> of the cap. <hi>There is no condemnation for them that are in Chriſt Jeſus:</hi> Yea, but all the doubt is, how ſhall we be aſſured that we have this Spirit which will and may be eaſily diſcerned by walking in the Spirit, and by ſavouring the things of the Spirit.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175599:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
